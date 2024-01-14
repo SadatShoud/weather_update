@@ -1,2 +1,2 @@
-# weather update using python
-# api
+# weather update
+
